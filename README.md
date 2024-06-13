@@ -10,18 +10,17 @@
 </p>
 
 ### Task
-![task-1](./task-1.jpg)
+1. Berapa kali Hello dicetak?
 ```text
     Hello akan dicetak sebanyak 1994 kali
 ```
 
-![task-2](./task-2.jpg)
-
+2. Berapa nilai return dari fungsi roger(8,8)?
 ```text
     Nilai return dari fungsi tersebut adalah 4
 ```
 
-![task-3](./task-3.jpg)
+3. Buatlah sebuah fungsi yang menerima sebuah string dan mengembalikan jumlah huruf besar, huruf kecil, angka, dan simbol yang terdapat pada string tersebut.
 ``` java
     public static void countLetter(String text) {
         int countUpperCase = 0;
